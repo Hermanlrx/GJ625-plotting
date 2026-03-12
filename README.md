@@ -3,7 +3,10 @@
 
 ## Installation
 
-This project uses [uv](https://docs.astral.sh/uv/), a fast Python package installer and resolver. If you don't have uv installed, follow the installation instructions at the link.
+This project uses [uv](https://docs.astral.sh/uv/), a fast Python package installer and resolver. 
+
+For MacOS and Linux Install using:
+`curl -LsSf https://astral.sh/uv/install.sh | sh`
 
 ```bash
 # Clone and setup
@@ -48,3 +51,4 @@ uv run sw-filterbank-plot.py /path/to/GJ625_2026-02-24T03:00:00_S0.fil -t 15 -b 
 Plots saved to: `dynamic_spectra/GJ625-<timestamp>/`
 
 --
+

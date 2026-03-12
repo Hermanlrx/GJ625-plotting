@@ -1,5 +1,5 @@
 # Stellar Waves - GJ625 Radio Observation Analysis
-
+This is version of `https://github.com/OwenJohnsons/stellar-waves.git` specifically used for radio observations of GJ625.
 
 ## Installation
 
@@ -51,4 +51,5 @@ uv run sw-filterbank-plot.py /path/to/GJ625_2026-02-24T03:00:00_S0.fil -t 15 -b 
 Plots saved to: `dynamic_spectra/GJ625-<timestamp>/`
 
 --
+
 

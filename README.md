@@ -10,7 +10,7 @@ For MacOS and Linux Install using:
 
 ```bash
 # Clone and setup
-git clone <repo>
+git clone https://github.com/Hermanlrx/GJ625-plotting.git
 cd GJ625-plotting
 uv sync
 ```
